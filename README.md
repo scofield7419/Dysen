@@ -31,14 +31,14 @@ This is the repository that contains the source code for the CVPR 2024 paper of 
 # Framework architecture
 
 <p align="center" width="100%">
-<a target="_blank"><img src="Figures/framework.png" alt="Dysen-VDM" style="width: 100%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="figures/framework.png" alt="Dysen-VDM" style="width: 100%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 
 
 
 <p align="center" width="100%">
-<a target="_blank"><img src="Figures/imagination.png" alt="Dysen-VDM" style="width: 100%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="figures/imagination.png" alt="Dysen-VDM" style="width: 100%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 
